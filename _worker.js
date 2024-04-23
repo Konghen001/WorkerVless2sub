@@ -460,9 +460,9 @@ export default {
 							addressid = parts[1];
 						}
 					
-						if (addressid.includes(':')) {
-							addressid = addressid.split(':')[0];
-						}
+						//if (addressid.includes(':')) {
+						//	addressid = addressid.split(':')[0];
+						//}
 					} else {
 						address = match[1];
 						port = match[2] || port;
