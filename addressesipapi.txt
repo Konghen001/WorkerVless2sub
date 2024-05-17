@@ -1,5 +1,13 @@
 140.238.13.96#cjip1
 13.125.218.78#cjip2
+
+acjp2.cloudflarest.link
+acsg3.cloudflarest.link
+bestcf.onecf.eu.org
+bestproxy.onecf.eu.org
+cfip.xxxxxxxx.tk
+proxy.xxxxxxxx.tk
+
 146.56.44.88
 64.110.88.46
 
