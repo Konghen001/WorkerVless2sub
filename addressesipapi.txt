@@ -1,23 +1,12 @@
-140.238.13.96#cjip1
-13.125.218.78#cjip2
-
-acjp2.cloudflarest.link
-acsg3.cloudflarest.link
-bestcf.onecf.eu.org
-bestproxy.onecf.eu.org
-cfip.xxxxxxxx.tk
-proxy.xxxxxxxx.tk
 cf.090227.xyz
 ct.090227.xyz
 cmcc.090227.xyz
+cf.zhetengsha.eu.org
 cf.313331.xyz
 cf.31112555.xyz
 146.56.44.88
 64.110.88.46
 
-195.85.59.102:2053#官方优选CT 19MB/s
-194.36.55.80:2083#官方优选CT 16MB/s
-45.85.118.19:2087#官方优选CT 16MB/s
 159.246.55.159:2087#官方优选CT 16MB/s
 45.133.247.80:8443#官方优选CT 15MB/s
 45.80.111.64:2096#官方优选CT 15MB/s
